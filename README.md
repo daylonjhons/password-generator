@@ -1,6 +1,7 @@
 # Password Generator
 
 ## Discription
+
 This Password Generator is a browser-based application designed to assist with generating strong and secure passwords for accessing sensitive data. 
 
 Here is a link to the deployed website https://daylonjhons.github.io/password-generator/
